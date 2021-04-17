@@ -36,7 +36,7 @@ alfazak@alfazak-Lenovo-Y520-15IKBN:~/Escritorio/7°/Aplicación de Nuevas Tecnol
 
 # 3 - Crear un repositorio remoto
 
-![2](Imagenes/2-2.png)
+![2](Imagenes/2.png)
 
 ![3](Imagenes/3-3.png)
 
