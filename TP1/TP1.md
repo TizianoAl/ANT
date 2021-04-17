@@ -38,7 +38,7 @@ alfazak@alfazak-Lenovo-Y520-15IKBN:~/Escritorio/7°/Aplicación de Nuevas Tecnol
 
 ![2](Imagenes/2.png)
 
-![3](Imagenes/3-3.png)
+![3](Imagenes/3.png)
 
 # 4 - Familiarizarse con el concepto de Pull Request
 
@@ -51,19 +51,19 @@ Cambiado a nueva rama 'localBranch'
 alfazak@alfazak-Lenovo-Y520-15IKBN:~/Escritorio/7°/Aplicación de Nuevas Tecnologías/Tp1$ touch Pullrequest.md
 ```
 
-![4](Imagenes/4-3.png)
+![4](Imagenes/4.png)
 
-![5](Imagenes/5-2.png)
+![5](Imagenes/5.png)
 
-![6](Imagenes/6-2.png)
+![6](Imagenes/6.png)
 
-![7](Imagenes/7-3.png)
+![7](Imagenes/7.png)
 
-![8](Imagenes/8-2.png)
+![8](Imagenes/8.png)
 
 # 5 - Mergear código con conflictos
 
-![9](Imagenes/9-2.png)
+![9](Imagenes/9.png)
 
 ```
 alfazak@alfazak-Lenovo-Y520-15IKBN:~/Escritorio/7°/Aplicación de Nuevas Tecnologías/Tp1 Clone$ git clone https://github.com/TizianoAl/Trabajo-Practico-N-1-Sistemas-de-control-de-versiones.git
@@ -75,7 +75,7 @@ remote: Total 9 (delta 0), reused 8 (delta 0), pack-reused 0
 Desempaquetando objetos: 100% (9/9), 2.53 KiB | 647.00 KiB/s, listo.
 ```
 
-![10](Imagenes/10-2.png)
+![10](Imagenes/10.png)
 
 ```
 alfazak@alfazak-Lenovo-Y520-15IKBN:~/Escritorio/7°/Aplicación de Nuevas Tecnologías/Tp1$ git status
@@ -109,7 +109,7 @@ To https://github.com/TizianoAl/Trabajo-Practico-N-1-Sistemas-de-control-de-vers
 Rama 'main' configurada para hacer seguimiento a la rama remota 'main' de 'origin'.
 ```
 
-![11](Imagenes/11-2.png)
+![11](Imagenes/11.png)
 
 ```
 alfazak@alfazak-Lenovo-Y520-15IKBN:~/Escritorio/7°/Aplicación de Nuevas Tecnologías/Tp1 Clone/Trabajo-Practico-N-1-Sistemas-de-control-de-versiones$ git status
@@ -124,9 +124,9 @@ Cambios no rastreados para el commit:
 sin cambios agregados al commit (usa "git add" y/o "git commit -a")
 ```
 
-![12](Imagenes/12-2.png)
+![12](Imagenes/12.png)
 
-![13](Imagenes/13-3.png)
+![13](Imagenes/13.png)
 
 
 - LOCAL es la version local de la rama
@@ -138,21 +138,21 @@ El codigo entre <<<< HEAD y ===== es lo que existe en la version local
 
 El codigo entre ===== y >>>> es lo que existe en la version remota
 
-![14](Imagenes/14-2.png)
+![14](Imagenes/14.png)
 
-![15](Imagenes/15-2.png)
+![15](Imagenes/15.png)
 
 # 6 - Algunos ejercicios online
 
-![16](Imagenes/16-2.png)
+![16](Imagenes/16.png)
 
-![17](Imagenes/17-1.png)
+![17](Imagenes/17.png)
 
-![18](Imagenes/18-1.png)
+![18](Imagenes/18.png)
 
-![19](Imagenes/19-1.png)
+![19](Imagenes/19.png)
 
-![20](media/20-2.png)
+![20](Imagenes/20.png)
 
 # 7 - Crear Repositorio de la materia
 
